@@ -1,3 +1,4 @@
+//spiral matrix
 class spiralmatrix
 {
     public static void print(int mat[][])
