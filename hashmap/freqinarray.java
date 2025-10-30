@@ -8,6 +8,7 @@
 // Output: [1]
 // Explanation: We have: 1 occurring 1 time, and there are no other numbers between 1 and the size of the array.
 
+// Frequency in an array
 
 class Solution {
     public List<Integer> frequencyCount(int[] arr) {
