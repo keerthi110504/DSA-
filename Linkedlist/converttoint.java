@@ -16,6 +16,7 @@
 
 // Input: head = [0]
 // Output: 0
+// converting a binary linkedist to integer
 
 class Solution {
     public int getDecimalValue(ListNode head) {
